@@ -18,3 +18,8 @@
 ##### 2-2 해결 방법
 
 chatGPT를 통해 검색하여 tabindex 속성을 넣어주었으며 이를 통해 컴포넌트에 포커스가 가도록 하였습니다
+<br/>
+
+##### 3 피그마 시안 이미지
+
+<img src="./02-design-handoff/src/images/example.svg">
